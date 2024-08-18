@@ -1,0 +1,23 @@
+.input-container {
+  width: 80%;
+  margin: 15px auto;
+}
+
+.down-payment-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input-item-70 {
+  width: 60%;
+}
+
+.input-item-30 {
+  width: 40%;
+}
+
+.typography-small {
+  font-size: 0.875rem;
+  color: #757575;
+  margin-bottom: 4px;
+}
